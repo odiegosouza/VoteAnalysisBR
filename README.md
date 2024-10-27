@@ -12,16 +12,16 @@ Dados utilizados: Os dados foram obtidos do Tribunal Superior Eleitoral (TSE), q
 
 ## Estrutura de Análise:
 1. **Comparação de Comparecimento e Abstenção**
-- **Avalia a taxa de comparecimento e abstenção dos eleitores em 2020 e 2024.**
+- Avalia a taxa de comparecimento e abstenção dos eleitores em 2020 e 2024.
 
 2. **Votos Brancos, Nulos e Válidos**
-- **Realiza comparações percentuais entre votos válidos, nulos e brancos.**
+- Realiza comparações percentuais entre votos válidos, nulos e brancos.
 
 3. **Análise Regional**
-- **Explora as taxas de comparecimento e abstenção por região, revelando diferenças regionais significativas na participação eleitoral.**
+- Explora as taxas de comparecimento e abstenção por região, revelando diferenças regionais significativas na participação eleitoral.
 
 4. **Tendências Comparativas**
-- **Identifica mudanças e tendências nos padrões de comparecimento e abstenção ao longo do tempo.**
+- Identifica mudanças e tendências nos padrões de comparecimento e abstenção ao longo do tempo.
 
 ## Como Executar
 Execute o script principal para gerar as visualizações e estatísticas descritas.
