@@ -24,7 +24,7 @@ Dados utilizados: Os dados foram obtidos do Tribunal Superior Eleitoral (TSE), q
 - Identifica mudanças e tendências nos padrões de comparecimento e abstenção ao longo do tempo.
 
 ## Como Executar
-Execute o script principal para gerar as visualizações e estatísticas descritas.
+Execute o script principal (main.ipynb) para gerar as visualizações e estatísticas descritas.
 
 ## Agradecimentos
 Agradeço ao Tribunal Superior Eleitoral (TSE) pelo acesso aos dados públicos, que possibilitam análises relevantes para a compreensão das eleições e da participação cidadã no Brasil.
